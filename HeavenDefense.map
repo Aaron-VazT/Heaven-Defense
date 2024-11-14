@@ -3,7 +3,7 @@
 // entity 0
 {
 "mapversion" "220"
-"wad" ""
+"wad" "D:/quake-leveldesign-starterkit-20240916-windows/extras/quake/prototype-wad/prototype_basic_1_3.wad"
 "classname" "worldspawn"
 // brush 0
 {
