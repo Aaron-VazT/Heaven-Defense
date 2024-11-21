@@ -1,0 +1,14 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: D:\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Heaven-Defense\unnamed-compile.map
+Output file: D:\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Heaven-Defense\unnamed.bsp
+
+INFO: using built-in palette.
+************ ERROR ************
+LoadMapFile: Couldn't load map file "unnamed-compile.map".
+
+
+
