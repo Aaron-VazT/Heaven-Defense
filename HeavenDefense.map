@@ -3458,7 +3458,7 @@
 }
 // brush 384
 {
-( 512 6272 32 ) ( 512 6273 32 ) ( 512 6272 33 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 496 6272 32 ) ( 496 6273 32 ) ( 496 6272 33 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 270 1 1
 ( 512 6272 32 ) ( 512 6272 33 ) ( 513 6272 32 ) 128_grey_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 180 1 1
 ( 512 6272 32 ) ( 513 6272 32 ) ( 512 6273 32 ) 128_grey_3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 656 6288 1392 ) ( 656 6289 1392 ) ( 657 6288 1392 ) 128_grey_3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 180 1 1
@@ -6087,4 +6087,86 @@
 ( 512 6400 816 ) ( 512 6400 817 ) ( 511 6400 816 ) 128_blue_3 [ -1 8.720971932033589e-15 0 112 ] [ 0 0 -1 0 ] 270 1 1
 ( 640 6384 800 ) ( 640 6384 801 ) ( 640 6385 800 ) 128_blue_3 [ 8.720971932033589e-15 1 0 -16 ] [ 0 0 -1 0 ] 90 1 1
 }
+}
+// entity 33
+{
+"classname" "monster_ogre"
+"origin" "240 6336 648"
+"angle" "90"
+}
+// entity 34
+{
+"classname" "monster_hell_knight"
+"origin" "208 6528 648"
+"angle" "90"
+}
+// entity 35
+{
+"classname" "monster_dog"
+"origin" "208 6640 648"
+"angle" "90"
+}
+// entity 36
+{
+"classname" "monster_fish"
+"origin" "336 6864 40"
+}
+// entity 37
+{
+"classname" "monster_army"
+"origin" "256 6384 72"
+}
+// entity 38
+{
+"classname" "monster_dog"
+"origin" "192 6736 648"
+"angle" "90"
+}
+// entity 39
+{
+"classname" "monster_dog"
+"origin" "480 6496 72"
+"angle" "270"
+}
+// entity 40
+{
+"classname" "monster_wizard"
+"origin" "224 6496 264"
+"angle" "90"
+}
+// entity 41
+{
+"classname" "monster_dog"
+"origin" "192 6624 248"
+"angle" "90"
+}
+// entity 42
+{
+"classname" "monster_army"
+"origin" "224 6752 248"
+"angle" "90"
+}
+// entity 43
+{
+"classname" "monster_wizard"
+"origin" "576 6656 472"
+"angle" "270"
+}
+// entity 44
+{
+"classname" "monster_wizard"
+"origin" "560 6816 472"
+"angle" "270"
+}
+// entity 45
+{
+"classname" "monster_demon1"
+"origin" "576 6576 456"
+"angle" "270"
+}
+// entity 46
+{
+"classname" "monster_army"
+"origin" "592 6416 456"
+"angle" "270"
 }
