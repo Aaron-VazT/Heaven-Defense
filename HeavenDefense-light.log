@@ -10,7 +10,7 @@ img::ConvertTextures: WARNING: Texture  duplicated
 img::ConvertTextures: WARNING: Texture  duplicated
 Loading extended texinfo flags from HeavenDefense.texinfo.json...
 WARNING: brush entity with mins [497 6401 817] maxs [639 6415 1055] (func_door) has empty key/value "" "door2"
-214 entities read, 131 are lights.
+217 entities read, 131 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -31,7 +31,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing HeavenDefense.bsp as Quake BSP bsp29
-0.569s seconds elapsed
+0.605s seconds elapsed
 0 empty lightmaps
 
 
