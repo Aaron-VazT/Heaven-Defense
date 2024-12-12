@@ -6,8 +6,17 @@
 LoadBSPFile: 'HeavenDefense.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-************ ERROR ************
-LoadPrtFile: unknown header/empty portal file HeavenDefense.prt
-
+   987 leafs
+   987 clusters
+  2804 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 117
+c_noclip: 0
+c_chains: 3527303
+visdatasize:48506  compressed from 122388
+Writing HeavenDefense.bsp as Quake BSP bsp29
+1.35s elapsed
 
 
