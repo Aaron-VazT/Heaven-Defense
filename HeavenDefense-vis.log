@@ -6,17 +6,17 @@
 LoadBSPFile: 'HeavenDefense.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-   987 leafs
-   987 clusters
-  2804 portals
+   939 leafs
+   939 clusters
+  2722 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 117
+average leafs visible: 112
 c_noclip: 0
-c_chains: 3527303
-visdatasize:48506  compressed from 122388
+c_chains: 2405075
+visdatasize:43740  compressed from 110802
 Writing HeavenDefense.bsp as Quake BSP bsp29
-1.35s elapsed
+1.47s elapsed
 
 

@@ -1,0 +1,37 @@
+---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+LoadBSPFile: 'HeavenDefense.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+Loading extended texinfo flags from HeavenDefense.texinfo.json...
+WARNING: brush entity with mins [497 6401 817] maxs [639 6415 1055] (func_door) has empty key/value "" "door2"
+214 entities read, 131 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	185 sky faces
+	7020 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 131 initial lights
+SetupLights: 131 after surface lights
+SetupLights: 131 after jittering
+Final count: 131 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 208836
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing HeavenDefense.bsp as Quake BSP bsp29
+0.569s seconds elapsed
+0 empty lightmaps
+
+
